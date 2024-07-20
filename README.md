@@ -1,5 +1,7 @@
 # Alternative-group-card
 
+Below you can find an alternative way to get group control.
+Additional custom cards are required from HACS: "stack-in-card" to combine multiple cards into 1, "mushroom" for layout and templating and "card_mod" to make it all look pretty.
 
 ```
 type: custom:stack-in-card
